@@ -12,9 +12,7 @@ I am going to avoid using the ViolentCrimePerPop variable in my clustering to en
 Tools used- PCA, KMeans, Spectral clustering, Mean shift, Bayesian Gaussian Mixed Models
 
 
-=======================
-Summary and take-aways
-=======================
+# Summary and take-aways
 
 The unsupervised clustering we did with PCA and KMeans was effective in grouping our communities into 3 distinct groups. While using the ViolentCrimesPerPop variable to create a supervised model would have likely given us a better understanding of the specific features that predict violent crime, the unsupervised approach was still useful.
 
