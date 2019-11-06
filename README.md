@@ -1,8 +1,6 @@
 # Crime-in-US-Communities
  Can unsupervised learning be used to quantify crime-related differences in US communities?
 
-Slide Type
-
 The dataset includes data taken from the 1990 US Census, 1995 FBI Uniform Crime Report, and 1990 US Law Enforcement Management and Administrative Statistics Survey. Data were normalized within a range of 0-1. Distributions were preserved, except for data that were >3 SD above the mean which were normalized to 1. Relationships within features are preserved while relationships between features are not. One major caveat of this dataset is the relatively small sample size (n=1994).
 
 To avoid cheating...
